@@ -14,6 +14,9 @@ Import your raw dataset into Excel.
 Ensure columns are appropriately labeled and data types are correct.
 Filter Top 20 Countries:
 
+![Top20CountriesGDPBarChart](https://github.com/Sunitharanip/Wealth-of-Nations-Project/assets/156103999/29147fa5-86ca-446d-91d6-55d177d3b869)
+
+
 Identify the criteria for selecting the top 20 countries (e.g., GDP, population).
 Use Excel sorting or filtering features to isolate the data for these countries.
 Handle Missing Data:
